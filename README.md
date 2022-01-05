@@ -18,3 +18,29 @@ docker compose up -d
 
 
 ## Routes
+
+###GET
+
+````shell
+localhost:8080/recettes
+localhost:8080/ingredients
+````
+
+###POST
+Ne pas oublier le body pour le post :)
+````shell
+localhost:8080/ingredients
+localhost:8080/recettes
+````
+
+###DELETE
+````shell
+localhost:8080/ingredients/61d55cde6a026c47ec6f9400
+localhost:8080/recettes/61d5641d86709579003c4655
+````
+
+###PUT
+Ne pas oublier le body pour le post :)
+````shell
+localhost:8080/ingredients
+````
