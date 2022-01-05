@@ -35,8 +35,8 @@ localhost:8080/recettes
 
 ### DELETE
 ````shell
-localhost:8080/ingredients/61d55cde6a026c47ec6f9400
-localhost:8080/recettes/61d5641d86709579003c4655
+localhost:8080/ingredients/id
+localhost:8080/recettes/id
 ````
 
 ### PUT
