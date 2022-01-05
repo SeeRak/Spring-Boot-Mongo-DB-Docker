@@ -46,16 +46,16 @@ localhost:8080/ingredients
 localhost:8080/recettes
 ````
 
-### Informations complémentaires
+## Informations complémentaires
 
 ![Alt text](src/assets/spring_initalizr.PNG)
 1. :blue_book: Projet : Maven Project :blue_book:
 2. :closed_book: Language : Java :closed_book:
 3. :green_book: Spring Boot : 2.6.2 :green_book:
-4. :orange_book:Packaging : Jar :orange_book:
+4. :orange_book: Packaging : Jar :orange_book:
 5. :ledger: Java : 11 :ledger:
 ### Dependances
-1. :mag_right: Spring Boot DevTools :mag:
-2. :mag_right: Lombok :mag:
-3. :mag_right: Spring Web :mag:
-4. :mag_right: Spring Data MongoDB :mag:
+1. :large_blue_circle: Spring Boot DevTools :large_blue_circle:
+2. :red_circle: Lombok :red_circle:
+3. :green_circle: Spring Web :green_circle:
+4. :orange_circle: Spring Data MongoDB :orange_circle:
