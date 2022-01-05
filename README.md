@@ -1,6 +1,6 @@
 # Recette de cuisine Spring / MongoDB / Docker
 
-Ce projet a pour but de mettre en place une API REST pour la gestion de recettes de cuisine
+:fries: Ce projet a pour but de mettre en place une API REST pour la gestion de recettes de cuisine :fries:
 
 ## Prérequis
 1. Un IDE JAVA 
@@ -27,7 +27,7 @@ localhost:8080/ingredients
 ````
 
 ### POST
-Ne pas oublier le body pour le post :)
+Ne pas oublier le body :)
 ````shell
 localhost:8080/ingredients
 localhost:8080/recettes
@@ -40,7 +40,7 @@ localhost:8080/recettes/id
 ````
 
 ### PUT
-Ne pas oublier le body pour le post :)
+Ne pas oublier le body :)
 ````shell
 localhost:8080/ingredients
 ````
