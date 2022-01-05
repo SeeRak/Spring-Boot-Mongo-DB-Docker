@@ -14,32 +14,32 @@
 docker compose up -d
 ```
 
-2. Dans votre IDE favori, lancer le projet avec maven.
+2. :computer: Dans votre IDE favori, lancer le projet avec maven. :computer:
 
 
 ## Routes
 
-### GET
+:milky_way: ### GET :milky_way:
 
 ````shell
 localhost:8080/recettes
 localhost:8080/ingredients
 ````
 
-### POST
+:milky_way: ### POST :milky_way:
 :keyboard: Ne pas oublier le body :keyboard:
 ````shell
 localhost:8080/ingredients
 localhost:8080/recettes
 ````
 
-### DELETE
+:milky_way: ### DELETE :milky_way:
 ````shell
 localhost:8080/ingredients/id
 localhost:8080/recettes/id
 ````
 
-### PUT
+:milky_way:### PUT :milky_way:
 :keyboard: Ne pas oublier le body :keyboard:
 ````shell
 localhost:8080/ingredients
